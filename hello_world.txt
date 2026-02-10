@@ -1,2 +1,2 @@
-This is a test to for github.
+This is a test for github.
 Hello World!
